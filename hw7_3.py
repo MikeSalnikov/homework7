@@ -47,7 +47,7 @@ class Cell:
         return cel
 
 
-cell1 = Cell(33)
+cell1 = Cell(25)
 cell2 = Cell(20)
 print(cell1 + cell2)
 print(cell1 - cell2)
